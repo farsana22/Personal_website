@@ -761,6 +761,8 @@ h3.my-profession
 }
 @media (max-width:1199px)
 {
+     .home-img:: before {display:none;}
+    .home-img::after{display:none;
     .section .container
     {
         padding-top: 70px;
